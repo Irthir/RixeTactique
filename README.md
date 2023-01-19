@@ -1,1 +1,2 @@
 # RixeTactique
+Projet Game Design
