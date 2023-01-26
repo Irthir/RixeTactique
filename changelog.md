@@ -1,4 +1,6 @@
-## [0.0.2] - 2023-01-19
+## [0.0.2] - 2023-01-26
+### Ajout
+-Correction des données du donjon pour qu'il convienne au concept d'origine.
 
 ## [0.0.2] - 2023-01-14
 ### Ajout
