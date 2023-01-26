@@ -1,6 +1,8 @@
 ## [0.0.2] - 2023-01-26
 ### Ajout
 -Correction des données du donjon pour qu'il convienne au concept d'origine.
+-Ajout d'un modèle pour le guerrier.
+-Ajout d'un modèle pour un ennemi guerrier squelette.
 
 ## [0.0.2] - 2023-01-14
 ### Ajout
