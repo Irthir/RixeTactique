@@ -1,3 +1,17 @@
+## [0.0.2] - 2023-01-27
+### Ajout
+-Ajout d'une vérification des portes sur les salles.
+-Ajout du joueur.
+-Mise en place de la possession du pion du joueur en solo.
+-Mise en place du déplacement du joueur.
+-Gestion des mouvements de la caméra en cas de mouvement.
+-Bloquage des mouvements quand un mur l'empêche.
+-Bloquage des mouvements sur une limitation d'action abstraite pour l'instant.
+-Affichage des évènements des salles dans lesquelles on arrive.
+-Création d'un widget blueprint pour gérer le combat, vide pour l'instant.
+-Tentatives avec le multijoueur.
+-Synchro valide avec le multijoueur, mais la possession des pawns ne l'est pas.
+
 ## [0.0.2] - 2023-01-26
 ### Ajout
 -Correction des données du donjon pour qu'il convienne au concept d'origine.
