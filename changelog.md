@@ -1,3 +1,10 @@
+## [0.0.3] - 2023-02-06
+### Ajout
+-Création d'un widget blueprint d'interface pour les combats.
+-Mise en place d'un système pour faire apparaitre et disparaitre le système d'interface.
+-Construction de la logique d'exécution du code pour le combat dans l'interface.
+-Validation de tous ces systèmes.
+
 ## [0.0.2] - 2023-01-27
 ### Ajout
 -Ajout d'une vérification des portes sur les salles.
