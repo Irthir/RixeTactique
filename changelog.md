@@ -9,6 +9,7 @@
 -Ajout des données d'un ennemi "gobelin" pour passer au système de combat.
 -Ajout de la gestion des trois figurines actuelles du joueur.
 -Création de la structure d'un tour de combat avec ses conditions de fin, sans le combat.
+-Avancées sur le système de combat, mais il y a toujours des bugs sur le système de choix des cibles.
 
 ## [0.0.3] - 2023-02-06
 ### Ajout
