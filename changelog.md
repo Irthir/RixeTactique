@@ -1,3 +1,14 @@
+## [0.0.3] - 2023-02-07
+### Ajout
+-Création d'une structure de donnée pour les figurines.
+-Création des types énumérés pour les six figurines joueurs.
+-Ajout dans ce type énuméré de quatre types d'ennemis.
+-Création d'un type énuméré pour les effets des figurines.
+-Remplissage de la structure pour la vie, les dégats et les soins des figurines.
+-Création du tableau de donnée avec les données des figurines joueur.
+-Ajout des données d'un ennemi "gobelin" pour passer au système de combat.
+-Ajout de la gestion des trois figurines actuelles du joueur.
+
 ## [0.0.3] - 2023-02-06
 ### Ajout
 -Création d'un widget blueprint d'interface pour les combats.
