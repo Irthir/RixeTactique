@@ -1,3 +1,8 @@
+## [0.0.3] - 2023-02-08
+### Modification
+-Corrections mineurs sur le système de combat.
+-Ajout de la notion de PV Max dans la structure des figurines.
+
 ## [0.0.3] - 2023-02-07
 ### Ajout
 -Création d'une structure de donnée pour les figurines.

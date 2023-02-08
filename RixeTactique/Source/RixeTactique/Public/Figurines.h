@@ -68,6 +68,8 @@ struct FFigurine : public FTableRowBase
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	int nVie;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	int nVieMax;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	int nAttaque;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	int nSoin;
