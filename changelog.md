@@ -1,3 +1,7 @@
+## [0.0.3] - 2023-03-02
+### Modification
+-Correction du système de soins.
+
 ## [0.0.3] - 2023-02-08
 ### Modification
 -Corrections mineurs sur le système de combat.
