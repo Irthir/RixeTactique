@@ -1,3 +1,12 @@
+## [0.0.3] - 2023-03-03
+### Ajout
+-Mise en place des attaques ennemies.
+-Affichage des conditions de fin de combat.
+-Finalisation du système de soin.
+### Modification
+-Correction des attaques sur des ennemis ou joueurs déjà morts.
+-Correction des soins sur des joueurs déjà morts.
+
 ## [0.0.3] - 2023-03-02
 ### Modification
 -Correction du système de soins.
