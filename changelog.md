@@ -1,3 +1,12 @@
+## [0.0.3] - 2023-03-06
+### Ajout
+-Mise en place des images pour les 6 personnages jouables.
+-Mise en place des images pour 5 ennemis possibles.
+
+## [0.0.3] - 2023-03-05
+### Ajout
+-Travail sur l'affichage des personnages en combat.
+
 ## [0.0.3] - 2023-03-03
 ### Ajout
 -Mise en place des attaques ennemies.

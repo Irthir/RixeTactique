@@ -75,4 +75,8 @@ struct FFigurine : public FTableRowBase
 	int nSoin;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	EEffetFigurine eEffet;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	int nNiveau = 1;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	int nExperience = 0;
 };
