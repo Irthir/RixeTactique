@@ -1,3 +1,9 @@
+## [0.0.3] - 2023-03-07
+### Ajout
+-Affichage des PV.
+-Rangement dans le widget d'interface.
+-Mise en place de panels différents si on est en combat ou non.
+
 ## [0.0.3] - 2023-03-06
 ### Ajout
 -Mise en place des images pour les 6 personnages jouables.
