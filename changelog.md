@@ -1,6 +1,8 @@
 ## [0.0.4] - 2023-03-08
 ### Ajout
 -Mise en place de l'affichage du texte.
+-Ajout d'un marqueur de visite des salles.
+-Développement de la mini-carte non terminé.
 
 ## [0.0.3] - 2023-03-07
 ### Ajout
