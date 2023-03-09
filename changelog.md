@@ -1,3 +1,7 @@
+## [0.0.4] - 2023-03-09
+### Ajout
+-Rédaction du cadrage pour les playtests.
+
 ## [0.0.4] - 2023-03-08
 ### Ajout
 -Mise en place de l'affichage du texte.
