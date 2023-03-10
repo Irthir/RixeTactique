@@ -5,6 +5,7 @@
 -Mise en place de la montée de niveau.
 -Affichage de l'expérence.
 -Création des données pour squelette, orc, armure et boss.
+-Mise en place d'ennemis différents selon le niveau du joueur.
 ### Modification
 -Révision des stats gagnées en cas de montée de niveau.
 
