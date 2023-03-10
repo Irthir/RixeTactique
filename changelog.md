@@ -3,6 +3,9 @@
 -Mise en place de l'animation de marche.
 -Mise en place du gain d'expérience.
 -Mise en place de la montée de niveau.
+-Affichage de l'expérence.
+### Modification
+-Révision des stats gagnées en cas de montée de niveau.
 
 ## [0.0.4] - 2023-03-09
 ### Ajout
