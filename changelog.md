@@ -1,3 +1,9 @@
+## [0.0.4] - 2023-03-10
+### Ajout
+-Mise en place de l'animation de marche.
+-Mise en place du gain d'expérience.
+-Mise en place de la montée de niveau.
+
 ## [0.0.4] - 2023-03-09
 ### Ajout
 -Rédaction du cadrage pour les playtests.
