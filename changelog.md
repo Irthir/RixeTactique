@@ -4,6 +4,7 @@
 -Mise en place du gain d'expérience.
 -Mise en place de la montée de niveau.
 -Affichage de l'expérence.
+-Création des données pour squelette, orc, armure et boss.
 ### Modification
 -Révision des stats gagnées en cas de montée de niveau.
 

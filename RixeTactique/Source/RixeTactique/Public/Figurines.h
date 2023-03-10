@@ -19,9 +19,10 @@ enum class EFigurine : uint8
 
 	//Les ennemis
 	Gobelin UMETA(DisplayName = "Gobelin"),
-	Orc UMETA(DisplayName = "Orc"),
 	Squelette UMETA(DisplayName = "Squelette"),
-	Demon UMETA(DisplayName = "Demon"),
+	Orc UMETA(DisplayName = "Orc"),
+	Armure UMETA(DisplayName = "Armure"),
+	Boss UMETA(DisplayName = "Boss"),
 };
 
 inline TMap<EFigurine,FString> EFigurineMap ={
@@ -34,9 +35,10 @@ inline TMap<EFigurine,FString> EFigurineMap ={
 
 	//Les ennemis
 	{EFigurine::Gobelin, "Gobelin"},
-	{EFigurine::Orc, "Orc"},
 	{EFigurine::Squelette, "Squelette"},
-	{EFigurine::Demon, "Demon"},
+	{EFigurine::Orc, "Orc"},
+	{EFigurine::Armure, "Armure"},
+	{EFigurine::Boss, "Boss"},
 };
 
 
