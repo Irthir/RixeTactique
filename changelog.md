@@ -3,6 +3,9 @@
 -Révision de l'interface de déplacement.
 -Mise en place de la liaison d'action avec l'interface de déplacement.
 -Gestion de l'affichage et du masquage de cet interface de déplacement.
+-Ajout des boutons d'action pour les déplacements.
+-Mise en place des pièges.
+-Développement du système de trésor.
 
 ## [0.0.4] - 2023-03-10
 ### Ajout
