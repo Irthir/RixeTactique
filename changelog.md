@@ -1,3 +1,9 @@
+## [0.0.4] - 2023-03-15
+### Ajout
+-Révision de l'interface de déplacement.
+-Mise en place de la liaison d'action avec l'interface de déplacement.
+-Gestion de l'affichage et du masquage de cet interface de déplacement.
+
 ## [0.0.4] - 2023-03-10
 ### Ajout
 -Mise en place de l'animation de marche.
