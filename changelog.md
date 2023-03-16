@@ -5,6 +5,11 @@
 -Création de 5 trésors différents.
 -Gestion du choix de ces 5 trésors.
 -Validation de la récupération des trésors.
+-Mise en place du boss.
+-Mise en place des conditions de fin.
+-Mise en place de la mini-carte.
+-Révision de la gestion des icones de la mini-carte.
+-Mise en place des icones pour la mini-carte.
 
 ## [0.0.4] - 2023-03-15
 ### Ajout
