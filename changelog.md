@@ -1,3 +1,11 @@
+## [0.0.4] - 2023-03-16
+### Ajout
+-Communication sur le projet.
+-Retrait du gain d'expérience pour les morts.
+-Création de 5 trésors différents.
+-Gestion du choix de ces 5 trésors.
+-Validation de la récupération des trésors.
+
 ## [0.0.4] - 2023-03-15
 ### Ajout
 -Révision de l'interface de déplacement.
