@@ -1,3 +1,10 @@
+## [0.0.4] - 2023-03-17
+### Ajout
+-Mise en place de la carte sur un clique sur la mini-carte.
+-Gestion du switch carte/jeu.
+-Affichage de la carte complète avec la vision.
+-Ajout de commandes de triche pour les tests.
+
 ## [0.0.4] - 2023-03-16
 ### Ajout
 -Communication sur le projet.
