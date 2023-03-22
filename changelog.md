@@ -1,3 +1,10 @@
+## [0.0.4] - 2023-03-22
+### Ajout
+-Playtest.
+-Fin du formulaire.
+-Indication sur l'interface de déplacement.
+-Début de l'ajout d'information sur l'interface trésor.
+
 ## [0.0.4] - 2023-03-17
 ### Ajout
 -Mise en place de la carte sur un clique sur la mini-carte.
