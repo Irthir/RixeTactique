@@ -1,3 +1,16 @@
+## [0.0.4] - 2023-03-23
+### Ajout
+-Ajout de l'affichage des pv/exp sur l'écran trésor.
+-Correction de divers affichages textes.
+-Ajout d'une disparition automatique du gain de pv en salle vide.
+-Ajout d'un bouton de fuite des combats.
+-Ajout des données pour les salles de soin.
+-Ajout des salles de soins.
+-Retrait des soins dans les salles vides.
+-Retrait des bonus de soin et de gain d'expérience.
+-Révision du formulaire.
+-Playtest.
+
 ## [0.0.4] - 2023-03-22
 ### Ajout
 -Playtest.

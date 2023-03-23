@@ -30,6 +30,7 @@ enum class EElementSalle : uint8
 	Tresor UMETA(DisplayName = "Tresor"),
 	Vision UMETA(DisplayName = "Vision"),
 	Boss UMETA(DisplayName = "Boss"),
+	Soin UMETA(DisplayName = "Soin"),
 };
 inline TMap<EElementSalle,FString> EElementSalleMap = {
 	{EElementSalle::Nord, "Nord"},
@@ -41,6 +42,7 @@ inline TMap<EElementSalle,FString> EElementSalleMap = {
 	{EElementSalle::Tresor, "Tresor"},
 	{EElementSalle::Vision, "Vision"},
 	{EElementSalle::Boss, "Boss"},
+	{EElementSalle::Soin, "Soin"},
 };
 
 /** Please add a struct description */
