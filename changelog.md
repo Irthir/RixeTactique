@@ -10,6 +10,8 @@
 -Retrait des bonus de soin et de gain d'expérience.
 -Révision du formulaire.
 -Playtest.
+-Ajout des noms des personnages à l'écran.
+-Ajout d'une musique de fond.
 
 ## [0.0.4] - 2023-03-22
 ### Ajout
