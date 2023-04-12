@@ -1,6 +1,7 @@
 ## [0.0.4] - 2023-04-12
 ### Ajout
 -Mise en place de l'effet du protecteur en combat.
+-Révision du gain de vision du joueur avec la différenciation vue/connue.
 
 ## [0.0.4] - 2023-03-23
 ### Ajout
