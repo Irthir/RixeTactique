@@ -1,3 +1,7 @@
+## [0.0.4] - 2023-04-12
+### Ajout
+-Mise en place de l'effet du protecteur en combat.
+
 ## [0.0.4] - 2023-03-23
 ### Ajout
 -Ajout de l'affichage des pv/exp sur l'écran trésor.
