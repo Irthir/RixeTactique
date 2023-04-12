@@ -2,6 +2,10 @@
 ### Ajout
 -Mise en place de l'effet du protecteur en combat.
 -Révision du gain de vision du joueur avec la différenciation vue/connue.
+-Mise en place de l'effet de l'éclaireur
+-Un peu d'optimisation sur les lumières.
+-Mise en place de l'effet du voleur.
+-Mise en place d'un écran titre et un menu pause.
 
 ## [0.0.4] - 2023-03-23
 ### Ajout
