@@ -1,3 +1,14 @@
+## [0.0.4] - 2023-04-21
+### Ajout
+-Création de l'objet d'interface réseau.
+-Création de l'interface de choix de personnage.
+
+## [0.0.4] - 2023-04-14
+### Ajout
+-Révision de l'interface de combat pour permettre les animations plus tard.
+-Révision des pièges pour infliger 25% des pvs maxs de la cible.
+-Révision de la pierre de vision pour voir tout tant qu'on est dans la salle de la pierre et uniquement là.
+
 ## [0.0.4] - 2023-04-12
 ### Ajout
 -Mise en place de l'effet du protecteur en combat.
