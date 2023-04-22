@@ -1,3 +1,7 @@
+## [0.0.4] - 2023-04-22
+### Ajout
+-Mise en place de la gestion d'ajout/retrait de figurines à la liste pour l'interface de choix.
+
 ## [0.0.4] - 2023-04-21
 ### Ajout
 -Création de l'objet d'interface réseau.
