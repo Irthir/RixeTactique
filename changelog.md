@@ -1,3 +1,7 @@
+## [0.0.4] - 2023-04-24
+### Ajout
+-Mise en place de la sélection des figurines et validation de celle-ci.
+
 ## [0.0.4] - 2023-04-22
 ### Ajout
 -Mise en place de la gestion d'ajout/retrait de figurines à la liste pour l'interface de choix.
