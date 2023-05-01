@@ -1,3 +1,13 @@
+## [0.0.4] - 2023-04-30
+### Ajout
+-Mise en place des potions.
+-Mise en place des boutons pour les potions.
+-Mise en place des écrans de fin en cas de victoire/défaite.
+-Mise en place des ennemis selon le niveau du donjon.
+-Mise en place du niveau de donjon.
+-Différentiation des ennemis sur un même niveau.
+-Première version de test avant le tournois.
+
 ## [0.0.4] - 2023-04-24
 ### Ajout
 -Mise en place de la sélection des figurines et validation de celle-ci.
