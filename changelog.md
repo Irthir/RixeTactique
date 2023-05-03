@@ -3,12 +3,14 @@
 -Création de l'interface connexion client/hôte.
 -Mise en place de la différenciation à la création du pion hôte ou client.
 -Travail sur la création de la carte côté client. À terminer.
+-Révision de l'interface de connexion.
 ### À Faire
 -Sauvegarder la carte hôte et la donner au client quand il arrive.
 -Afficher correctement l'interface pour le client et l'hôte.
 -Afficher l'avancée de l'autre joueur au cours de la partie.
 -Gérer les conditions de fin.
 -Ajouter des signes et retours.
+-Corriger les problèmes du mode solo qui vont arriver.
 
 ## [0.0.4] - 2023-04-30
 ### Ajout
