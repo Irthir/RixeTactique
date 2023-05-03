@@ -1,3 +1,15 @@
+## [0.0.5] - 2023-05-03
+### Ajout
+-Création de l'interface connexion client/hôte.
+-Mise en place de la différenciation à la création du pion hôte ou client.
+-Travail sur la création de la carte côté client. À terminer.
+### À Faire
+-Sauvegarder la carte hôte et la donner au client quand il arrive.
+-Afficher correctement l'interface pour le client et l'hôte.
+-Afficher l'avancée de l'autre joueur au cours de la partie.
+-Gérer les conditions de fin.
+-Ajouter des signes et retours.
+
 ## [0.0.4] - 2023-04-30
 ### Ajout
 -Mise en place des potions.
