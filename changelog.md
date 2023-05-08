@@ -1,3 +1,10 @@
+## [0.0.5] - 2023-05-08
+### Ajout
+-Révision du système multijoueur.
+-Création d'une BDD SQL.
+-Liaison effective avec la BDD.
+-Révision du système de lancement de partie.
+
 ## [0.0.5] - 2023-05-03
 ### Ajout
 -Création de l'interface connexion client/hôte.
