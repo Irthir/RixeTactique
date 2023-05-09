@@ -4,6 +4,7 @@
 -Creation d'un objet SQL pour le menu principal.
 -Creation de partie effective.
 -Réception des parties valides effective.
+-Mise en place de la logique chaotique jusqu'à la liaison hôte/client.
 
 ## [0.0.5] - 2023-05-08
 ### Ajout
