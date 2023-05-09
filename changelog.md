@@ -1,3 +1,10 @@
+## [0.0.5] - 2023-05-09
+### Ajout
+-Liaison Unreal SQL.
+-Creation d'un objet SQL pour le menu principal.
+-Creation de partie effective.
+-Réception des parties valides effective.
+
 ## [0.0.5] - 2023-05-08
 ### Ajout
 -Révision du système multijoueur.
