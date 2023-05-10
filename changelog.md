@@ -1,3 +1,10 @@
+## [0.0.5] - 2023-05-10
+### Ajout
+-Lien entre menu et jeu effectif avec vérification SQL. 1h
+-Logique Select/Update avec interval de 2 secondes alternées en place dans le jeu. 1h
+-Validation de l'envoie des données local sur la base. 1h
+-Validation de réception des données de la base en local. 1h
+
 ## [0.0.5] - 2023-05-09
 ### Ajout
 -Liaison Unreal SQL.
