@@ -1,9 +1,19 @@
+## [0.0.5] - 2023-05-11
+### Ajout
+-Préparation du tournoi. 1h
+-Réalisation du tournoi. 2h
+-Début du mémoire. 4h
+
 ## [0.0.5] - 2023-05-10
 ### Ajout
 -Lien entre menu et jeu effectif avec vérification SQL. 1h
 -Logique Select/Update avec interval de 2 secondes alternées en place dans le jeu. 1h
 -Validation de l'envoie des données local sur la base. 1h
 -Validation de réception des données de la base en local. 1h
+-Echange de données en cours de partie. 2h
+-Validation des conditions de victoire/défaite en réseau. 1h
+-Ajout de sons sur les boutons. 30min
+-Préparation du formulaire de retour pour le tournoi. 30min
 
 ## [0.0.5] - 2023-05-09
 ### Ajout
