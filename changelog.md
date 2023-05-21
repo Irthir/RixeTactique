@@ -1,3 +1,8 @@
+## [0.0.5] - 2023-05-21
+### Modification
+-Correction du bogue d'affichage de la salle sur déplacement.
+-Correction du bogue de bloquage des entrées suite à l'activation de la pause.
+
 ## [0.0.5] - 2023-05-11
 ### Ajout
 -Préparation du tournoi. 1h
