@@ -1,3 +1,15 @@
+## [0.0.5] - 2023-06-06
+### Ajout
+-Communication de fin de projet.
+
+## [0.0.5] - 2023-06-05
+### Ajout
+-Fin de l'écriture du mémoire.
+
+## [0.0.5] - 2023-06-04
+### Ajout
+-Poursuite de la rédaction du mémoire, état actuel 22 pages, 3700 mots.
+
 ## [0.0.5] - 2023-05-21
 ### Modification
 -Correction du bogue d'affichage de la salle sur déplacement.
